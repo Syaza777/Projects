@@ -22,8 +22,8 @@ Project Execution is the execution phase where the result, coding blocks and tec
 Project Closing indicate the end of the project lifecycle where the project need to document closing document and lesson learnt report.
 
 ## Sample Result
-<img src="PMP-PLAN/assets/girl.png" width="50%">
+<img src="Image-Colorization-System/PMP-PLAN/assets/girl.png" width="50%">
 
-<img src="PMP-PLAN/assets/lion.png" width="50%">
+<img src="Image-Colorization-System/PMP-PLAN/assets/lion.png" width="50%">
 
-<img src="PMP-PLAN/assets/manga.png" width="50%">
+<img src="Image-Colorization-System/PMP-PLAN/assets/manga.png" width="50%">
