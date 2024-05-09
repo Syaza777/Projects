@@ -1,0 +1,9 @@
+﻿  Evo.cpp
+C:\Users\nisas\source\repos\Lab EVO\Evo.cpp(11,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nisas\source\repos\Lab EVO\Evo.cpp(12,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\nisas\source\repos\Lab EVO\Evo.cpp(22,26): warning C4838: conversion from 'double' to 'const int' requires a narrowing conversion
+C:\Users\nisas\source\repos\Lab EVO\Evo.cpp(22,26): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+C:\Users\nisas\source\repos\Lab EVO\Evo.cpp(151,64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nisas\source\repos\Lab EVO\Evo.cpp(243,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\nisas\source\repos\Lab EVO\Evo.cpp(284,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab EVO.vcxproj -> C:\Users\nisas\source\repos\Lab EVO\Debug\Lab EVO.exe
