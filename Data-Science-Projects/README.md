@@ -13,3 +13,13 @@ This project focus on visualizing the World Energy Consumption to investigate an
 Dataset that are used for this project is collected from Kaggle datasets.
 
 Visualization of data is made by using Jupyter Notebook and Github.
+
+# Exploring Car Price Through Analytical 
+
+This project aims to explore car prices using analytical insights, employing techniques from data science and analytics.
+
+By analyzing various factors such as make, model, year, mileage, and features, the project seeks to uncover patterns and trends that influence car prices. 
+
+Through data visualization, statistical analysis, and possibly machine learning algorithms, the project aims to provide valuable insights into the factors driving car prices, aiding both consumers and industry professionals in making informed decisions regarding buying, selling, or pricing vehicles.
+
+Visualization of data is made by using Jupyter Notebook and Github.
