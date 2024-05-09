@@ -1,0 +1,150 @@
+﻿Car ID,Car Name,Price (RM),Brand,Body Type,Segment,Fuel,Launch Year,Horsepower(PS),Engine Capacity,Transmission,Seats,EV Range (km),Battery Capacity (kWh),Rating,Comment
+0,Proton Saga MT,34800,Proton,Sedan,A-Segment,Petrol,2022,95,1.3,Manual,5,,,4,Excellent
+1,Proton Saga AT,38800,Proton,Sedan,A-Segment,Petrol,2022,95,1.3,Auto,5,,,4,Excellent
+2,Proton Iriz,40300,Proton,Hatchback,B-Segment,Petrol,2021,95,1.3,CVT,5,,,4.1,Excellent
+3,Proton Persona,45200,Proton,Sedan,B-Segment,Petrol,2021,109,1.6,CVT,5,,,3.9,Good
+4,Proton Exora,59800,Proton,MPV,C-Segment,Petrol,2019,140,1.6,CVT,7,,,3.5,Good
+5,Proton X50,79200,Proton,SUV,B-Segment,Petrol,2020,150,1.5,DCT,5,,,4.2,Excellent
+6,Proton X70,98800,Proton,SUV,C-Segment,Petrol,2022,177,1.5,DCT,5,,,4.1,Excellent
+7,Perodua Axia MT,24090,Perodua,Hatchback,A-Segment,Petrol,2019,69,1,Manual,5,,,4,Excellent
+8,Perodua Axia AT,33490,Perodua,Hatchback,A-Segment,Petrol,2019,69,1,Auto,5,,,4,Excellent
+9,Perodua Bezza MT,34580,Perodua,Sedan,A-Segment,Petrol,2020,69,1,Manual,5,,,4.1,Excellent
+10,Perodua Bezza AT,36580,Perodua,Sedan,A-Segment,Petrol,2020,69,1,Auto,5,,,4.1,Excellent
+11,Perodua Myvi,48500,Perodua,Hatchback,B-Segment,Petrol,2021,95,1.3,CVT,5,,,4.1,Excellent
+12,Perodua Alza,62500,Perodua,MPV,B-Segment,Petrol,2022,106,1.5,CVT,7,,,4,Excellent
+13,Perodua Ativa,62500,Perodua,SUV,B-Segment,Petrol,2021,98,1,CVT,5,,,4.2,Excellent
+14,Perodua Aruz,72900,Perodua,SUV,B-Segment,Petrol,2021,103,1.5,Auto,7,,,3.8,Good
+15,Honda City S,77600,Honda,Sedan,B-Segment,Petrol,2020,121,1.5,CVT,5,,,4,Excellent
+16,Honda City Hatchback S,78600,Honda,Hatchback,B-Segment,Petrol,2022,121,1.5,CVT,5,,,4.1,Excellent
+17,Honda BR-V E,90700,Honda,SUV,B-Segment,Petrol,2020,120,1.5,CVT,7,,,4.2,Excellent
+18,Honda HR-V S,114800,Honda,SUV,B-Segment,Petrol,2022,121,1.5,CVT,5,,,4.2,Excellent
+19,Honda Civic E,130700,Honda,Sedan,C-Segment,Petrol,2022,182,1.5,CVT,5,,,4,Excellent
+20,Honda CR-V 2WD,146900,Honda,SUV,C-Segment,Petrol,2021,154,2,CVT,5,,,4.1,Excellent
+21,Honda Accord,187400,Honda,Sedan,D-Segment,Petrol,2020,201,1.5,CVT,5,,,4.1,Excellent
+22,Honda Odyssey,275311,Honda,MPV,D-Segment,Petrol,2022,175,2.4,CVT,7,,,4.3,Excellent
+23,Honda Civic Type R,330002,Honda,Hatchback,C-Segment,Petrol,2018,310,2,Manual,5,,,4.9,Excellent
+24,Hyundai Kona,119888,Hyundai,SUV,C-Segment,Petrol,2021,149,2,CVT,5,,,4.4,Excellent
+25,Hyundai Elantra,139888,Hyundai,Sedan,C-Segment,Petrol,2021,123,1.6,CVT,5,,,5,Excellent
+26,Hyundai Kona Electric e-Lite,149888,Hyundai,SUV,C-Segment,EV,2021,136,,,5,305,39.2,4.2,Excellent
+27,Hyundai Grand Starex,163888,Hyundai,MPV,D-Segment,Diesel,2020,168,2.5,Auto,11,,,4,Excellent
+28,Hyundai Santa Fe,166974,Hyundai,SUV,D-Segment,Petrol,2019,172,2.4,Auto,7,,,4,Excellent
+29,Hyundai Staria Lite,179888,Hyundai,MPV,Commercial,Diesel,2022,177,2.2,Auto,10,,,4.7,Excellent
+30,Hyundai Sonata Premium,189888,Hyundai,Sedan,D-Segment,Petrol,2020,180,2.5,Auto,5,,,4.2,Excellent
+31,Hyundai Ioniq 5 Lite,199888,Hyundai,Sedan,D-Segment,EV,2022,170,,,5,384,58,4.8,Excellent
+32,Hyundai i30N,293798,Hyundai,Hatchback,C-Segment,Petrol,2020,275,2,Manual,5,,,4.6,Excellent
+33,Hyundai Palisade Diesel Exec 8,328888,Hyundai,SUV,E-Segment,Diesel,2021,200,2.2,Auto,7,,,4.1,Excellent
+34,Hyundai Palisade GDI Luxe 8,338888,Hyundai,SUV,E-Segment,Petrol,2021,295,3.8,Auto,7,,,4.2,Excellent
+35,Isuzu D-Max Single Cab,90499,Isuzu,Pickup,4×4,Diesel,2021,150,1.9,Manual,2,,,4.9,Excellent
+36,Kia Picanto EX,49888,Kia,Hatchback,A-Segment,Petrol,2019,84,1.2,Auto,5,,,3,Good
+37,Kia Cerato SX,99214,Kia,Sedan,C-Segment,Petrol,2020,130,1.6,Auto,5,,,4.3,Excellent
+38,Kia Seltos EX,115888,Kia,SUV,B-Segment,Petrol,2021,123,1.6,Auto,5,,,4.7,Excellent
+39,Kia Sportage EX,123480,Kia,SUV,C-Segment,Petrol,2019,155,2,Auto,5,,,3.9,Good
+40,Kia Sorento EX,169888,Kia,SUV,D-Segment,Petrol,2019,172,2.4,Auto,7,,,4.3,Excellent
+41,Kia Carnival,196340,Kia,MPV,D-Segment,Diesel,2022,202,2.2,Auto,11,,,4,Excellent
+42,Kia EV6,300668,Kia,Sedan,D-Segment,EV,2022,325,,,5,506,77.4,4.4,Excellent
+43,Nissan Almera VL,79906,Nissan,Sedan,B-Segment,Petrol,2020,100,1,CVT,5,,,3.9,Good
+44,Nissan Navara Single Cab,91900,Nissan,Pickup,4×4,Diesel,2021,163,2.5,Manual,2,,,3.4,Good
+45,Nissan X-Trail 2WD,128630,Nissan,SUV,C-Segment,Petrol,2019,144,2,CVT,7,,,4.3,Excellent
+46,Nissan Serena S-Hybrid,149888,Nissan,MPV,C-Segment,Petrol Hybrid,2022,150,2,CVT,7,,,4,Excellent
+47,Nissan Leaf,181263,Nissan,Hatchback,C-Segment,EV,2019,150,,,5,,,4.3,Excellent
+48,Toyota Yaris J,69576,Toyota,Hatchback,B-Segment,Petrol,2021,107,1.5,CVT,5,,,4.1,Excellent
+49,Toyota Vios J,74623,Toyota,Sedan,B-Segment,Petrol,2021,107,1.5,CVT,5,,,4.3,Excellent
+50,Toyota Avanza E,77963,Toyota,MPV,B-Segment,Petrol,2019,105,1.5,Auto,7,,,3.8,Good
+51,Toyota Rush G,88314,Toyota,SUV,B-Segment,Petrol,2019,105,1.5,Auto,7,,,3.5,Good
+52,Toyota Hilux Single Cab,92880,Toyota,Pickup,4×4,Diesel,2020,150,2.4,Manual,2,,,5,Excellent
+53,Toyota Veloz,95000,Toyota,MPV,B-Segment,Petrol,2022,106,1.5,CVT,7,,,4.3,Excellent
+54,Toyota Innova E,111622,Toyota,MPV,D-Segment,Petrol,2021,139,2,Auto,8,,,4.4,Excellent
+55,Toyota Corolla Cross G,123000,Toyota,SUV,C-Segment,Petrol,2021,139,1.8,CVT,5,,,4.3,Excellent
+56,Toyota Corolla Altis E,128888,Toyota,Sedan,C-Segment,Petrol,2020,139,1.8,CVT,5,,,4.4,Excellent
+57,Toyota Fortuner,169167,Toyota,SUV,D-Segment,Diesel,2021,150,2.4,Auto,7,,,4.2,Excellent
+58,Toyota Camry,199109,Toyota,Sedan,D-Segment,Petrol,2022,209,2.5,Auto,5,,,4.3,Excellent
+59,Toyota RAV4,196436,Toyota,SUV,C-Segment,Petrol,2020,173,2,CVT,5,,,4.5,Excellent
+60,Toyota Harrier Luxury,249707,Toyota,SUV,D-Segment,Petrol,2021,173,2,CVT,5,,,4,Excellent
+61,Toyota GR Yaris,299000,Toyota,Hatchback,Sports Car,Petrol,2021,261,1.6,Manual,4,,,4.2,Excellent
+62,Toyota Vellfire,367881,Toyota,MPV,Executive,Petrol,2020,180,2.5,CVT,7,,,4.2,Excellent
+63,Toyota Alphard,446609,Toyota,MPV,Executive,Petrol,2020,300,3.5,Auto,7,,,4.2,Excellent
+64,Toyota GR Supra,589987,Toyota,Coupe,Sports Car,Petrol,2019,388,3,Auto,2,,,4.4,Excellent
+65,Mazda 2 Sedan,100870,Mazda,Sedan,B-Segment,Petrol,2020,115,1.5,Auto,5,,,3.7,Good
+66,Mazda 2 Hatchback,100870,Mazda,Hatchback,B-Segment,Petrol,2020,116,1.5,Auto,5,,,3.9,Good
+67,Mazda BT-50,124179,Mazda,Pickup,Pickup,Diesel,2021,190,3,Auto,5,,,4,Excellent
+68,Mazda CX-3,135259,Mazda,SUV,B-Segment,Petrol,2018,156,2,Auto,5,,,3.5,Good
+69,Mazda CX-5,139434,Mazda,SUV,C-Segment,Petrol,2019,162,2,Auto,5,,,4.2,Excellent
+70,Mazda 3 Sedan,143320,Mazda,Sedan,C-Segment,Petrol,2022,120,1.5,Auto,5,,,4.3,Excellent
+71,Mazda 3 Hatchback,143320,Mazda,Hatchback,C-Segment,Petrol,2022,120,1.5,Auto,5,,,4,Excellent
+72,Mazda CX-30,150059,Mazda,SUV,B-Segment,Diesel,2022,116,2,Auto,5,,,4.5,Excellent
+73,Mazda 6 Sedan,176159,Mazda,Sedan,D-Segment,Petrol,2021,164,2,Auto,5,,,3.8,Good
+74,Mazda CX-8,188360,Mazda,SUV,D-Segment,Petrol,2019,195,2.5,Auto,7,,,4,Excellent
+75,Mazda MX-30,198780,Mazda,SUV,C-Segment,EV,2022,143,,,5,199,35.5,4.7,Excellent
+76,Mazda 6 Grand Touring,218648,Mazda,Wagon,D-Segment,Petrol,2022,192,2.5,Auto,5,,,4.2,Excellent
+77,Mazda MX-5,258591,Mazda,Convertible,Sport Car,Petrol,2022,184,2,Auto,2,,,4.9,Excellent
+78,Mazda CX-9,328610,Mazda,SUV,E-Segment,Petrol,2022,230,2.5,Auto,7,,,3.8,Good
+79,Mercedes-Benz A-Class Sedan,220458,Mercedes-Benz,Sedan,C-Segment,Petrol,2022,163,1.3,Auto,5,,,4.9,Excellent
+80,Mercedes-Benz GLA,241379,Mercedes-Benz,SUV,C-Segment,Petrol,2021,163,1.3,Auto,5,,,4.1,Excellent
+81,Mercedes-Benz GLB,271788,Mercedes-Benz,SUV,C-Segment,Petrol,2020,165,1.3,Auto,5,,,4.2,Excellent
+82,Mercedes-Benz EQA,278201,Mercedes-Benz,SUV,Compact Executive,EV,2022,190,,,5,402,66.5,4.4,Excellent
+83,Mercedes-Benz C-CLass Coupe,336129,Mercedes-Benz,Coupe,Compact Executive,Petrol,2018,187,2,Auto,4,,,4.6,Excellent
+84,Mercedes-Benz Vito Tourer,342036,Mercedes-Benz,MPV,Executive,Petrol,2021,211,2,Auto,10,,,4.6,Excellent
+85,Mercedes-Benz AMG GLA,345058,Mercedes-Benz,SUV,Sport Car,Petrol,2022,306,2,DCT,4,,,4.1,Excellent
+86,Mercedes-Benz GLC Coupe,374073,Mercedes-Benz,SUV,Compat Executive,Petrol,2022,258,2,Auto,5,,,4.3,Excellent
+87,Mercedes-Benz AMG A-Class,379888,Mercedes-Benz,Hatchback,Sport Car,Petrol,2020,306,2,Auto,5,,,4.5,Excellent
+88,Mercedes-Benz AMG GLB,392582,Mercedes-Benz,SUV,C-Segment,Petrol,2022,306,2,DCT,5,,,4.2,Excellent
+89,Mercedes-Benz AMG C-Class,401115,Mercedes-Benz,Sedan,Grand Tourer,Petrol,2020,396,3,Auto,5,,,4,Excellent
+90,Mercedes-Benz EQE,419888,Mercedes-Benz,Sedan,Executive,EV,2023,292,,,5,669,90.56,4,Excellent
+91,Mercedes-Benz AMG CLA,467691,Mercedes-Benz,Sedan,Grand Tourer,Petrol,2020,427,2,DCT,5,,,4.9,Excellent
+92,Mercedes-Benz AMG GLC,471888,Mercedes-Benz,SUV,Sport Car,Petrol,2018,372,3,Auto,5,,,4.1,Excellent
+93,Mercedes-Benz AMG GLE,475501,Mercedes-Benz,SUV,Executive,Petrol,2021,367,3,Auto,7,,,4.3,Excellent
+94,Mercedes-Benz E-Class Coupe,495071,Mercedes-Benz,Coupe,Executive,Petrol,2021,258,2,Auto,4,,,4.2,Excellent
+95,Mercedes-Benz GLC Coupe,538888,Mercedes-Benz,SUV,Sport Car,Petrol,2022,390,3,Auto,5,,,4.3,Excellent
+96,Mercedes-Benz CLS,552913,Mercedes-Benz,Coupe,Executive,Petrol,2018,303,2,Auto,5,,,4.1,Excellent
+97,Mercedes-Benz AMG C-Class Coupe,558270,Mercedes-Benz,Coupe,Sport Car,Petrol,2018,372,3,Auto,4,,,4.8,Excellent
+98,Mercedes-Benz S-Class,650113,Mercedes-Benz,Sedan,Luxury,Petrol,2018,372,3,Auto,5,,,4.1,Excellent
+99,Mercedes-Benz GLE Coupe,661009,Mercedes-Benz,SUV,Executive,Petrol,2020,367,3,Auto,5,,,4.9,Excellent
+100,Mercedes-Benz EQS,698888,Mercedes-Benz,Sedan,Luxury,EV,2022,333,,,5,782,107.8,4,Excellent
+101,Mercedes-Benz AMG GLE Coupe,812046,Mercedes-Benz,SUV,Executive,Petrol,2020,435,3,Auto,5,,,4,Excellent
+102,Mercedes-Benz AMG CLS,860875,Mercedes-Benz,Sedan,Grand Tourer,Petrol,2018,441,3,Auto,5,,,4.2,Excellent
+103,Mercedes-Benz GLS,899888,Mercedes-Benz,SUV,Luxury,Petrol,2020,367,3,Auto,5,,,4.5,Excellent
+104,Mercedes-Benz G-Class,999888,Mercedes-Benz,SUV,Executive,Petrol,2020,290,2.9,Auto,5,,,4.7,Excellent
+105,Mercedes-Benz AMG GT,1558888,Mercedes-Benz,Coupe,Sport Car,Petrol,2019,565,4,Auto,2,,,4.1,Excellent
+106,Mercedes-Benz Maybach GLS,1789453,Mercedes-Benz,SUV,Luxury,Petrol,2022,558,4,Auto,4,,,4.3,Excellent
+107,Mercedes-Benz Maybach S-Class,1928816,Mercedes-Benz,Sedan,Luxury,Petrol,2022,503,4,Auto,4,,,4.3,Excellent
+108,BMW X1,220800,BMW,SUV,C-Segment,Petrol,2020,140,1.5,DCT,5,,,4.2,Excellent
+109,BMW 2 Series Gran Coupe,228800,BMW,Coupe,Grand Tourer,Petrol,2020,140,1.5,Manual,5,,,4.4,Excellent
+110,BMW 3 Series,257800,BMW,Sedan,Compat Executive,Petrol,2021,181,2,Auto,5,,,4.3,Excellent
+111,BMW i3s,268824,BMW,Hatchback,B-Segment,EV,2020,181,,,4,260,42.2,4.7,Excellent
+112,BMW X3,315800,BMW,SUV,Compact Executive,Petrol,2022,184,2,Auto,5,,,4,Excellent
+113,BMW iX3,322800,BMW,SUV,Compact Executive,EV,2022,282,,,5,385,80,4.7,Excellent
+114,BMW X2,328800,BMW,SUV,C-Segment,Petrol,2019,195,2,Auto,5,,,4,Excellent
+115,BMW 5 Series,358217,BMW,Sedan,Executive,Petrol,2021,184,2,Auto,5,,,4.4,Excellent
+116,BMW 1 Series,375800,BMW,Hatchback,C-Segment,Petrol,2020,306,2,Auto,6,,,4.3,Excellent
+117,BMW M3,379800,BMW,Sedan,Grand Tourer,Petrol,2021,382,3,Auto,5,,,4,Excellent
+118,BMW iX,379800,BMW,SUV,Executive,EV,2021,326,,,5,425,76.6,4.9,Excellent
+119,BMW i4,389800,BMW,Sedan,Sport Car,EV,2022,340,,,5,510,83.9,4.4,Excellent
+120,BMW X4,398800,BMW,SUV,Compact Executive,Petrol,2022,252,2,Auto,5,,,4,Excellent
+121,BMW 4 Series Coupe,430800,BMW,Sedan,Executive,Petrol,2021,258,2,Auto,5,,,4.6,Excellent
+122,BMW Z4,469510,BMW,Coupe,Sport Car,Petrol,2020,262,2,Auto,2,,,4.2,Excellent
+123,BMW X5,480000,BMW,SUV,Executive,Petrol,2020,290,3,Auto,5,,,4.5,Excellent
+124,BMW M2 Coupe,626800,BMW,Coupe,Sport Car,Petrol,2019,417,3,DCT,2,,,4.3,Excellent
+125,BMW X7,708800,BMW,SUV,Executive,Petrol,2020,345,3,Auto,7,,,4,Excellent
+126,BMW X6,736800,BMW,SUV,Executive,Petrol,2020,345,3,Auto,5,,,4.6,Excellent
+127,BMW M4 Coupe,740800,BMW,Coupe,Sport Car,Petrol,2020,510,3,Auto,4,,,4.5,Excellent
+128,BMW X3 M,886551,BMW,SUV,Compact Executive,Petrol,2020,517,3,Auto,5,,,4.4,Excellent
+129,BMW X4 M,904276,BMW,SUV,Compact Executive,Petrol,2020,517,3,Auto,5,,,4,Excellent
+130,BMW 8 Series Gran Coupe,998800,BMW,Coupe,Grand Tourer,Petrol,2020,345,3,Auto,4,,,4.5,Excellent
+131,BMW M5,968800,BMW,Sedan,Sport Car,Petrol,2022,600,4.4,Auto,5,,,4,Excellent
+132,BMW 8 Series,1088800,BMW,Coupe,Luxury,Petrol,2020,537,4.4,Auto,5,,,4.5,Excellent
+133,Mitsubishi Triton Quest,81390,Mitsubishi,Pickup,4×4,Diesel,2020,110,2.5,Manual,5,,,4,Excellent
+134,Mitsubishi Xpander,96800,Mitsubishi,MPV,B-Segment,Petrol,2020,105,1.5,Auto,7,,,4,Excellent
+135,Peugeot 3008,167288,Peugeot,SUV,C-Segment,Petrol,2021,167,1.6,Auto,5,,,3.9,Good
+136,Peugeot 5008,183288,Peugeot,SUV,C-Segment,Petrol,2021,167,1.6,Auto,7,,,4.3,Excellent
+137,Volkswagen Passat,182878,Volkswagen,Sedan,D-Segment,Petrol,2020,190,2,DCT,5,,,4,Excellent
+138,Volkswagen Golf GTI,211698,Volkswagen,Hatchback,C-Segment,Petrol,2022,245,2,DCT,5,,,4,Excellent
+139,Volkswagen Tiguan Allspace,174745,Volkswagen,SUV,C-Segment,Petrol,2022,150,1.4,DCT,7,,,4.9,Excellent
+140,Volkswagen Arteon,247671,Volkswagen,Sedan,D-Segment,Petrol,2021,280,2,DCT,5,,,4.2,Excellent
+141,Volvo X40,231651,Volvo,SUV,C-Segment,Petrol,2021,255,1.5,Auto,4,,,4.3,Excellent
+142,Volvo S60,282540,Volvo,Sedan,Compact Executive,Petrol,2020,407,2,Auto,5,,,4,Excellent
+143,Volvo S90,286909,Volvo,Sedan,Executive,Petrol,2021,254,2,Auto,5,,,4,Excellent
+144,Subaru XV,117788,Subaru,SUV,D-Segment,Petrol,2021,156,2,CVT,5,,,3.9,Good
+145,Subaru Outback,229128,Subaru,Wagon,D-Segment,Petrol,2018,175,2.5,CVT,5,,,4,Excellent
+146,Subaru Forester,139788,Subaru,SUV,C-Segment,Petrol,2019,156,2,CVT,5,,,3.9,Good
+147,Suzuki Jinny,169000,Suzuki,SUV,A-Segment,Petrol,2021,102,1.5,Auto,4,,,4.9,Excellent
+148,Suzuki Swift Sport,139900,Suzuki,Hatchback,B-Segment,Petrol,2021,140,1.4,Auto,5,,,4.6,Excellent

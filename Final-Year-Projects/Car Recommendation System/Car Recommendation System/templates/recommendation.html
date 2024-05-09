@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Car Sale Website</title>
+    <!-- Link To CSS -->
+    <link rel="stylesheet" href="/static/style.css">
+    <!-- Box Icons -->
+    <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+</head>
+<body>
+    <!-- Navbar -->
+    <header>
+        <!-- Nav Container -->
+        <div class="nav container">
+            <!-- Menu Icon -->
+            <i class='bx bx-menu' id="menu-icon"></i>
+            <!-- Logo -->
+            <a href="/" class="logo">Car<span>Recommendation</span></a>
+            <!-- Nav List -->
+            <ul class="navbar">
+                <li><a href="/#home" class="active">Home</a></li>
+                <li><a href="/#cars">Cars</a></li>
+                <li><a href="/#about">Recommendations</a></li>
+                <li><a href="/#shops">Location</a></li>
+                <li><a href="/#review">Review</a></li>
+            </ul>
+            <!-- Search Icon -->
+            <i class='bx bx-search' id="search-icon" ></i>
+            <!-- Search Box -->
+            <div class="search-box container">
+                <input type="search" name="" id="" placeholder="Search here...">
+            </div>
+        </div>
+    </header>
+ <!-- Home -->
+ <section class="about container" id="about">
+    <div class="about-img">
+        <img src="/static/img/about.png" alt="">
+    </div>
+    <div class="about-text">
+        <span>Car Recommendation</span>
+        <h2>Get your car recommended <br>based on your own preferences</h2>
+    </div>
+    
+</section>
+
+<section class="container" style="text-align:left">
+	<form action="{{url_for('recommend')}}" method="post">
+		<!-- age -->
+		<label for="age">What is your age:</label>
+		<input type="number" id="age" name="age" min="0" max="100">
+		
+		<br><br>
+		
+		<!-- gender -->
+		<label for="gender">Select your gender:</label>
+		<select name="gender" id="gender">
+			<option disabled hidden selected>Select</option>
+			<option value=True>Male</option>
+			<option value=False>Female</option>
+		</select>
+			
+		<br><br>
+		
+		<!-- budget -->
+		<label for="budget">Select your budget:</label>
+		<select name="budget" id="budget">
+			<option disabled hidden selected>Select</option>
+			<option value=100000>Below RM 100,000</option>
+			<option value=200000>Below RM 200,000</option>
+			<option value=300000>Below RM 300,000</option>
+			<option value=400000>Below RM 400,000</option>
+			<option value=500000>Below RM 500,000</option>
+			<option value=600000>Below RM 600,000</option>
+			<option value=700000>Below RM 700,000</option>
+			<option value=800000>Below RM 800,000</option>
+			<option value=900000>Below RM 900,000</option>
+			<option value=1000000>Below RM 1,000,000</option>
+			<option value=2000000>RM 1,000,000 and above</option>
+		</select>
+		
+		<br><br>
+		
+		<!-- body type -->
+		<label for="body type">Select your desired car body type:</label>
+		<select name="body type" id="body type">
+			<option disabled hidden selected>Select</option>
+			<option value="MPV">MPV</option>
+			<option value="Convertible">Convertible</option>
+			<option value="Coupe">Coupe</option>
+			<option value="Hatchback">Hatchback</option>
+			<option value="Pickup">Pickup</option>
+			<option value="Sedan">Sedan</option>
+			<option value="SUV">SUV</option>
+			<option value="Wagon">Wagon</option>
+		</select>
+			
+		<br><br>
+		
+		<!-- fuel -->
+		<label for="fuel type">Select your desired car fuel type:</label>
+		<select name="fuel type" id="fuel type">
+			<option disabled hidden selected>Select</option>
+			<option value="Petrol">Petrol</option>
+			<option value="EV">EV</option>
+			<option value="Diesel">Diesel</option>
+			<option value="Petrol Hybrid">Petrol Hybrid</option>
+		</select>
+		
+		<br><br>
+		
+		<!-- seat num -->
+		<label for="seats">Select your desired numbers of seats:</label>
+		<input type="number" id="seats" name="seats" min="2" max="11">
+
+		<br><br>
+		
+		<input type="submit" value="Recommend" name = "submit"> 
+		<br><br>
+		{{ result_text }}
+		
+		<br>
+		
+		<!-- display table -->
+		{% for table in tables %}
+        <h2>{{titles[loop.index]}}</h2>                            
+        {{ table|safe }}
+        {% endfor %} 
+		
+		<br>
+		
+	</form>
+</section>
+
+
+<br><br><br>
+
+</body>
